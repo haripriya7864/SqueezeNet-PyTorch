@@ -13,3 +13,6 @@ data = [
         "label": 207
     }
 ]
+## Output
+
+![SqueezeNet Output](image.png)
